@@ -1,0 +1,1 @@
+# awesome-things-to-do-during-coronavirus-outbreak

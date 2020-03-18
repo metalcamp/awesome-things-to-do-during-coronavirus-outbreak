@@ -16,23 +16,23 @@
 
 ### Talks 
 
-[Most popular TED talks of all time](https://www.ted.com/playlists/171/the_most_popular_talks_of_all)
+* [Most popular TED talks of all time](https://www.ted.com/playlists/171/the_most_popular_talks_of_all)
 
-[PHP UK Conference](https://www.youtube.com/user/phpukconference)
+* [PHP UK Conference](https://www.youtube.com/user/phpukconference)
 
-[PHP Serbia](https://www.youtube.com/user/PHPSrbijaVideo)
+* [PHP Serbia](https://www.youtube.com/user/PHPSrbijaVideo)
 
-[Webcamp Zagreb](https://www.youtube.com/user/WebCampZg)
+* [Webcamp Zagreb](https://www.youtube.com/user/WebCampZg)
 
-[Chaos Computer Congress](https://www.youtube.com/user/mediacccde)
+* [Chaos Computer Congress](https://www.youtube.com/user/mediacccde)
 
-[Laracon Online](https://laracon.net/)
+* [Laracon Online](https://laracon.net/)
 
-[Security BSides London](https://www.youtube.com/channel/UCXXNOelGiY_N96a2nfhcaDA)
+* [Security BSides London](https://www.youtube.com/channel/UCXXNOelGiY_N96a2nfhcaDA)
 
-[Security BSides San Francisco](https://www.youtube.com/channel/UCWemrSP6Aba171jXReCz_Qg)
+* [Security BSides San Francisco](https://www.youtube.com/channel/UCWemrSP6Aba171jXReCz_Qg)
 
-[Linux Days Graz](https://www.youtube.com/user/grazerlinuxtage)
+* [Linux Days Graz](https://www.youtube.com/user/grazerlinuxtage)
 
 ### Projects 
 
